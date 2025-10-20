@@ -1,5 +1,3 @@
-# iris_kmeans.py
-
 import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.cluster import KMeans
